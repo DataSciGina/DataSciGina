@@ -71,7 +71,8 @@
 I would like to know your opinion about my projects or talk about possible collaborations, <b>Do you dare to invite me to collaborate with you or know more about me and my projects?</b> Contact me!:
 
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/agostina-fern%c3%a1ndez-aab4a8323/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/agostina-fern%c3%a1ndez-aab4a8323/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/agostina-fern%c3%a1ndez-aab4a8323/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn Agostina Fernández" height="40" width="40" /></a>
+<a href="https://github.com/DataSciGina" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=bVGqATNwfhYq&format=png&color=000000" alt="Github Agostina Fernández" height="40" width="40" /></a>
 </p>
 
 <p align='center'>📫 fernandezagostina.ds@gmail.com</p>
