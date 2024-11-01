@@ -1,7 +1,7 @@
 <h1 align='center'>Hi there! 👋 I'm Agostina Fernández</h1>
 <p align='center'>A passionate Data Scientist from Argentina</p>
 
-<img src="https://komarev.com/ghpvc/?username=datascigina&label=Profile%20views&color=0e75b6&style=flat" alt="datascigina" />
+<img src="https://komarev.com/ghpvc/?username=datascigina&label=Profile%20views&color=0e75b6&style=flat" alt="datascigina" align='center'/>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=datascigina" alt="datascigina" /></a>
 
 ## About Me
