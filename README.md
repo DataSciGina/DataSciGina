@@ -74,6 +74,6 @@ I would like to know your opinion about my projects or talk about possible colla
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/agostina-fern%c3%a1ndez-aab4a8323/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/agostina-fern%c3%a1ndez-aab4a8323/" height="30" width="40" /></a>
 </p>
 
-📫 **fernandezagostina.ds@gmail.com**
+<p align='center'>📫 fernandezagostina.ds@gmail.com</p>
 
 
