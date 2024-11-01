@@ -1,2 +1,0 @@
-# MyProfile
-My personal README
